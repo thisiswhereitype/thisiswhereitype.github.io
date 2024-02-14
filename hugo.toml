@@ -1,0 +1,8 @@
+theme = 'ananke'
+baseURL = 'https://thisiswhereitype.github.io/'
+languageCode = 'en-gb'
+title = 'The Wiring as a Structural Element'
+[params]
+    subtitle = 'A blog of energy, data and systems.'
+    [params.contact]
+        name = 'Joe Scott'
